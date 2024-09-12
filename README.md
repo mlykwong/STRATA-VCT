@@ -10,7 +10,7 @@ These instructions will get your copy of the project up and running on your loca
 
 What things you need to install the software and how to install them:
 
-- [Node.js](https://nodejs.org/en) test
+- [Node.js](https://nodejs.org/en)
 - [npm (Node Package Manager)](https://www.npmjs.com/)
 - [Express.js](https://expressjs.com/)
 - [LangChain](https://js.langchain.com/v0.1/docs/get_started)
